@@ -1,8 +1,8 @@
 {
 	"name": "HoloMiko",
 	"author": "freewifi_tech",
-	"version": "1.1-β",
-	"description": "3535",
+	"version": "1.2",
+	"description": "This theme is based on Hololive's Sakura Miko. It features pink, light blue, and white colors, along with a dark background.",
 	"authors": [ 
 		{
 			"name": "freewifi_tech",
@@ -11,7 +11,7 @@
 	],
 	"background": {
 		"blur": "0.5",
-		"url": "https://raw.githubusercontent.com/FreeWiFi7749/holomiko/refs/heads/main/IMG_0245.png",
+		"url": "https://raw.githubusercontent.com/FreeWiFi7749/holomiko/refs/heads/main/bg.png",
 		"alpha": "0.7"
 	},
 	"theme_color_map": {
