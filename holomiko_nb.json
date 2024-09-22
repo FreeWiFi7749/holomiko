@@ -1,5 +1,5 @@
 {
-	"name": "HoloMiko",
+	"name": "HoloMiko_nb",
 	"author": "freewifi_tech",
 	"version": "1.0-β",
 	"description": "3535",
@@ -9,11 +9,6 @@
 			"id": "707320830387814531"
 		}
 	],
-	"background": {
-		"blur": "10",
-		"url": "https://i.pinimg.com/originals/b6/f1/90/b6f1906f620d82f58ab80cc6a1c3568d.jpg",
-		"alpha": "0.7"
-	},
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#000000"],
 		"BACKGROUND_PRIMARY": ["#000000", "#000000"],
