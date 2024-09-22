@@ -10,7 +10,7 @@
 		}
 	],
 	"background": {
-		"blur": "0.5",
+		"blur": "10",
 		"url": "https://i.pinimg.com/originals/b6/f1/90/b6f1906f620d82f58ab80cc6a1c3568d.jpg",
 		"alpha": "0.7"
 	},
